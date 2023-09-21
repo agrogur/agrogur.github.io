@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Uğur Gümüş</title>
+    <link>https://agrogur.github.io/portfolio/</link>
+    <description>Recent content in Portfolio on Uğur Gümüş</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://agrogur.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customizing Blogger Template</title>
+      <link>https://agrogur.github.io/portfolio/design1/</link>
+      <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrogur.github.io/portfolio/design1/</guid>
+      <description>I modified it for this version by making some adjustments to the Qn Forum theme.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "PomodoneApp",
+    "description": "Pomodoro timer for productivity",
+    "link": "https://pomodoneapp.com/",
+    "icon": "https://pomodoneapp.com/favicon.ico",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Microsoft Azure",
+    "description": "Cloud hosting for all projects",
+    "link": "https://azure.microsoft.com/en-us/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/800px-Microsoft_Azure.svg.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "Duolingo",
+    "description": "Language learning",
+    "link": "https://www.duolingo.com/",
+    "icon": "https://design.duolingo.com/cdb78a8bae9e67867cd0.svg",
+    "tag": "Language"
+  },
+  {
+    "name": "GitHub",
+    "description": "Code hosting for all projects",
+    "link": "https://github.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+    "tag": "Webdev"
+  },
+  {
+    "name": "Microsoft Visual Studio Code",
+    "description": "Code editor for all projects",
+    "link": "https://code.visualstudio.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png",
+    "tag": "Productivity"
+  },
+  {
+    "name": "Canva",
+    "description": "Graphic design for all projects",
+    "link": "https://www.canva.com/",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg",
+    "tag": "Graphic Design"
+  },
+  {
+    "name": "freeCodeCamp",
+    "description": "Free online learning platform for coding",
+    "link": "https://www.freecodecamp.org/",
+    "icon": "https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg",  
+    "tag": "Learning Code"
+  }
+]

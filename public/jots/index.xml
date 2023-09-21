@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jots on Uğur Gümüş</title>
+    <link>https://agrogur.github.io/jots/</link>
+    <description>Recent content in Jots on Uğur Gümüş</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://agrogur.github.io/jots/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IDEAS</title>
+      <link>https://agrogur.github.io/jots/ideas/</link>
+      <pubDate>Sat, 18 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://agrogur.github.io/jots/ideas/</guid>
+      <description>Inference
+Definition
+Example
+Antonym
+Synonym
+&amp;ldquo;IDEAS&amp;rdquo; is an abbreviation used for learning vocabulary. It serves as a mnemonic device to assist learners in remembering the meanings of new words and how to use them correctly.</description>
+    </item>
+    
+  </channel>
+</rss>
