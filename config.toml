@@ -78,11 +78,6 @@ googleAnalytics = "UA-PROPERTY_ID"
   url = '/articles/index.xml'
   weight = 6
 
-[[redirects]]
-	from = "/*"
-	to = "/404/"
-	status = 404
-
 # syntax highlight settings
 [markup]
   [markup.highlight]
