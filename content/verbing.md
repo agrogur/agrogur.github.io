@@ -16,7 +16,7 @@ I'm enjoying my hiatus! Joke, indeed! I am currently in a career transition phas
 
 ## 🤓 Learning
 
-Nowadays, I am following [freecodecamp](https://www.freecodecamp.org/)'s learning path (curriculum) to learn programming and coding. And last but not least, also learning Deutsch and Português Brasileiro at Duolingo. 
+Nowadays, I am following [freecodecamp](https://www.freecodecamp.org/agrogur)'s learning path (curriculum) to learn programming and coding. And last but not least, also learning Deutsch and Português Brasileiro at [Duolingo](https://www.duolingo.com/profile/agrogur). 
 
 ## 🧵  I am joining the thread now: 
 *Have you ever heard of something called 'scrobbling'? It's one of my favorite things on the internet because it's so easy to use and keep track of your activities. My interest in this concept began when I discovered last.fm, where I could record the music I was listening to. While I was wondering if there was a similar platform for tracking movies and TV series, I stumbled upon trakt.tv. By the way, I explored several websites while looking for something similar for books. Although Goodreads doesn't quite match the level of the others, it serves its purpose for now.*
