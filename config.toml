@@ -1,4 +1,4 @@
-baseURL = 'https://agrogur.github.io'
+baseURL = 'http://agrogur.github.io'
 languageCode = 'en-us'
 title = 'Uğur Gümüş'
 theme = ['hugo-cloak-email', 'digitalgarden']
