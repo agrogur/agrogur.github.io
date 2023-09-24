@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Uğur Gümüş</title>
-    <link>https://agrogur.github.io/</link>
+    <link>http://agrogur.github.io/</link>
     <description>Recent content in Homepage on Uğur Gümüş</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://agrogur.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://agrogur.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Customizing Blogger Template</title>
-      <link>https://agrogur.github.io/portfolio/customizing-blogger-template/</link>
+      <link>http://agrogur.github.io/portfolio/customizing-blogger-template/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://agrogur.github.io/portfolio/customizing-blogger-template/</guid>
+      <guid>http://agrogur.github.io/portfolio/customizing-blogger-template/</guid>
       <description>I modified it for this version by making some adjustments to the Qn Forum theme.</description>
     </item>
     
     <item>
       <title>IDEAS</title>
-      <link>https://agrogur.github.io/jots/ideas/</link>
+      <link>http://agrogur.github.io/jots/ideas/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://agrogur.github.io/jots/ideas/</guid>
+      <guid>http://agrogur.github.io/jots/ideas/</guid>
       <description>Inference
 Definition
 Example
@@ -32,19 +32,19 @@ Synonym
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>https://agrogur.github.io/articles/lorem-ipsum/</link>
+      <link>http://agrogur.github.io/articles/lorem-ipsum/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://agrogur.github.io/articles/lorem-ipsum/</guid>
+      <guid>http://agrogur.github.io/articles/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec euismod, nisl eget ultricies aliquam, nunc nunc aliquet nunc, vitae ultricies nisl nunc eget nunc. Sed euismod, nisl eget ultricies aliquam, nunc nunc aliquet nunc, vitae ultricies nisl nunc eget nunc. Sed euismod, nisl eget ultricies aliquam, nunc nunc aliquet nunc, vitae ultricies nisl nunc eget nunc. Sed euismod, nisl eget ultricies aliquam, nunc nunc aliquet nunc, vitae ultricies nisl nunc eget nunc.</description>
     </item>
     
     <item>
       <title>Verbing</title>
-      <link>https://agrogur.github.io/verbing/</link>
+      <link>http://agrogur.github.io/verbing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://agrogur.github.io/verbing/</guid>
+      <guid>http://agrogur.github.io/verbing/</guid>
       <description>This is my verbing page. It is a page where I write about what I am doing, what I am learning, what I am reading, what I am watching, what I am listening, what I am cycling, what I am playing, and so on.
 🏠 Living Living in Istanbul, 🇹🇷.
 🏢 Working I&amp;rsquo;m enjoying my hiatus! Joke, indeed! I am currently in a career transition phase, and I am in the process of changing my job title to coder.</description>
