@@ -49,8 +49,8 @@ googleAnalytics = "UA-PROPERTY_ID"
   params.header = true
   weight = 8
 [[menu.main]]
-  name = 'Blogger'
-  url = 'https://argogur.blogspot.com/'
+  name = 'Blog'
+  url = '/blog'
   weight = 9
 
 [[menu.social]]
